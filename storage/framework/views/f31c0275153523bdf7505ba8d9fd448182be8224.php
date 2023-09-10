@@ -1,0 +1,2 @@
+<meta name="Keywords" content="<?php echo e($allsettings->site_keywords); ?>">
+<meta name="Description" content="<?php echo e($allsettings->site_desc); ?>"><?php /**PATH /home/u728587553/domains/designtemplate.io/public_html/resources/views/meta.blade.php ENDPATH**/ ?>

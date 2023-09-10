@@ -1,0 +1,4 @@
+[06-Dec-2022 09:09:42 UTC] PHP Fatal error:  Uncaught Error: Class 'Fickrr\Http\Controllers\Controller' not found in /home/desig459/public_html/app/Http/Controllers/Admin/SettingsController.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/desig459/public_html/app/Http/Controllers/Admin/SettingsController.php on line 16

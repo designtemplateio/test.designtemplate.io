@@ -1,0 +1,4 @@
+[06-Dec-2022 11:40:27 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\ServiceProvider' not found in /home/desig459/public_html/app/Providers/AppServiceProvider.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/desig459/public_html/app/Providers/AppServiceProvider.php on line 27

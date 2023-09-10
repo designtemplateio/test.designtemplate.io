@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'Frutiger Neue Pro';
+    src: local('Frutiger Neue Pro Bold'), local('Frutiger-Neue-Pro-Bold'),
+        url('FrutigerNeueLTPro-Bold.woff2') format('woff2'),
+        url('FrutigerNeueLTPro-Bold.woff') format('woff'),
+        url('FrutigerNeueLTPro-Bold.ttf') format('truetype');
+    font-weight: 700;
+    font-style: normal;
+  }
